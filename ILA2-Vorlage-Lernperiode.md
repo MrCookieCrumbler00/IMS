@@ -26,7 +26,7 @@ Das Projekt zu beenden und mehr lernen.
 - [ ] ...
 - [X] Viertes AP
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich an meinem Blackjack gearbeited und es beendet und habe auch noch ein anderes Spiel begonnen. 
 
 
 ### Planung 23.08.2024
