@@ -4,7 +4,7 @@
 - Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
 
 ## Grob-Planung
-Ich möchte weiter an meinem Blackjack versuch arbeiten um mich mit den commands vartraut zu machen, wie if,else,while,ect.
+Ich möchte mein RideTheBus spiel fertig stellen und es testen und dann versuchen mit GoDot ein spiel zu erstellen.
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -
@@ -13,7 +13,7 @@ Ich möchte weiter an meinem Blackjack versuch arbeiten um mich mit den commands
 Ich möchte versuchen ChatGPT nützlicher zu nutzen und nur für Erklärungen. 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-Spiel entwicklung
+Spielentwicklung
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 C# zu lernen und zu können
@@ -34,4 +34,3 @@ C# zu lernen und zu können
 - [X] Viertes AP
 
 ## Lernperiode Reflexion
-Heute habe ich an meinem Blackjack gearbeited und es beendet und habe auch noch ein anderes Spiel begonnen. 
