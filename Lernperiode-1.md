@@ -4,7 +4,7 @@
 - Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
 
 ## Grob-Planung
-Ich möchte mein RideTheBus spiel fertig stellen und es testen und dann versuchen mit GoDot ein spiel zu erstellen.
+Ich möchte die Grundlagen von Untiy verstehen und es verbinden mit meinem Bisherigen C# Wissen.
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -
@@ -16,7 +16,7 @@ Ich möchte versuchen ChatGPT nützlicher zu nutzen und nur für Erklärungen.
 Spielentwicklung
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-C# zu lernen und zu können
+C# zu lernen und es mit Unity benutzten können
 ## Tagesplanungen
 
 ### Planung 16.08.2024
