@@ -1,16 +1,14 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 1
 
-- Name: Exemplibus Exemplio
-- Zeitraum: tt.mm.jjjj bis tt.mm.jjjj
+- Name: Edi Lang
+- Zeitraum: -
 
 ## Grob-Planung
 Ich möchte die Grundlagen von Untiy verstehen und es verbinden mit meinem Bisherigen C# Wissen.
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
--
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Ich möchte versuchen ChatGPT nützlicher zu nutzen und nur für Erklärungen. 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 Spielentwicklung
@@ -19,18 +17,35 @@ Spielentwicklung
 C# zu lernen und es mit Unity benutzten können
 ## Tagesplanungen
 
-### Planung 16.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+### Planung 14.08.2026
+Einfaches Blackjack beginnen
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Simples If/Else code lernen und umsetzen.
+- [ ] Blackjack code schreiben und Testen.
 
-### Planung 21.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+### Planung 21.08.2026
+Blackjack Projekt beenden und neues "Ride the Bus" Projekt beginnen.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Blackjack bot fertig stellen.
+- [ ] Blackjack fertig stellen.
+- [X] Testen.
+- [ ] Neues Projekt beginnen.
 
-## Lernperiode Reflexion
+### Planung 28.08.2026
+Ride the Bus fertig stellen und testen, dann neues Projekt suchen.
+
+- [ ] Alle letzten If/Else Codes fertig stellen und windetection einbauen.
+- [ ] Spiel fertig stellen und einbauen.
+- [X] Nach weiteren Projekten suchen, oder neues Programm finden (bsp. Unity)
+
+### Planung 4.09.2026
+Beginnen mit Unity.
+
+- [ ] Mit ChatGPT Unity lernen, wie man alles macht.
+- [ ] Simples 2d Spiel mit Hilfe von ChatGPT erstellen.
+
+### Planung 11.09.2026
+Weiter Unity lernen und kleines Spiel erstellen.
+
+- [ ] Mit Hilfe von ChatGPT weiter Unity lernen.
+- [ ] An 2d Spiel arbeiten
