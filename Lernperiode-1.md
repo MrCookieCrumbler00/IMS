@@ -47,5 +47,13 @@ Beginnen mit Unity.
 ### Planung 11.09.2026
 Weiter Unity lernen und kleines Spiel erstellen.
 
-- [ ] Mit Hilfe von ChatGPT weiter Unity lernen.
+- [X] Mit Hilfe von ChatGPT weiter Unity lernen.
+- [X] An 2d Spiel arbeiten
+
+### Planung 18.09.2026
+Mit Hilfe von ChatGPT Aufgaben und Erklärungen erstellen, um C# in Unity zu lernen und zu verstehen. 
+- [ ] Weiter Unity lernen
 - [ ] An 2d Spiel arbeiten
+
+
+
