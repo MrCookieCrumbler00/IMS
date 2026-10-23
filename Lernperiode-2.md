@@ -23,20 +23,12 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 
 ## Grob-Planung
 
-### Noten
-<!--
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
-in welchen sind die ungenügend? Welche davon sind besonders wichtig?
--->
+Programmieren lernen und simple Programme/Spiele in Unity erstellen können. 
 
-...Ihr Text...
 
 ### Veränderungen
-<!--
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
--->
 
-...Ihr Text...
+Ich möchte gerne versuchen mich besser zu fokussieren und schnelle und grösserer Fortschritt zu machen.
 
 ### Projekte / neue Technologien
 <!--
@@ -45,14 +37,14 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-...Ihr Text...
+Ich möchte gerne lernen wie man Unity richtig benutzt. 
 
 ### Generelle Ziele
 <!--
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-...Ihr Text...
+Ich möchte die Basics in Unity können die mir erlauben simple Spiele 2D oder sogar 3D spiele zu entwickeln. 
 
 ## Tagesplanungen
 <!--
@@ -64,20 +56,13 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
+### Planung 23.10.2026
 
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
+Ich möchte mich erst richtig auf die Lernperiode vorbereiten und mir alles bereit stellen. 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Alles einrichten (Unity, github) 
+- [ ] Online tutorials suchen und schauen. 
+- [ ] Mich mit Unity bekannt machen und erste schritte lernen. 
 
 
 #### Tagesreflexion
