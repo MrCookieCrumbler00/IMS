@@ -94,9 +94,7 @@ absence, absent, Absenz, abwesend, krank, Krankheit.
 
 Kleine Bausteine von Unity lernen und kleine spiele aufs mal programmieren, bis ich mich wohler fühle etwas grösseres zu machen.  
 
-- [ ] Kleine Codezeilen lernen und mit ihnen kleine "spiele" machen. 
-- [ ]  
-- [ ] 
+- [X] Kleine Codezeilen lernen und mit ihnen kleine "spiele" machen. 
 
 
 #### Tagesreflexion
@@ -107,7 +105,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Ich hatte eine neue Idee etwa mitten drinnen wie ich besser Unity programmieren lernen könnte. Ich bin schon ziemlich gut mit Scratch und konnte dort schon richtig gut Spiele machen. Ich habe also ChatGPT gefragt ob es mir ein Word machen kann mit all den Scratchblöcken übersetzt zu C#. Jetzt kann ich einfach auf diese List schauen und damit schon Dinge programmieren. 
 
 
 <!--
