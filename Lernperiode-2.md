@@ -60,9 +60,43 @@ absence, absent, Absenz, abwesend, krank, Krankheit.
 
 Ich möchte mich erst richtig auf die Lernperiode vorbereiten und mir alles bereit stellen. 
 
-- [ ] Alles einrichten (Unity, github) 
-- [ ] Online tutorials suchen und schauen. 
-- [ ] Mich mit Unity bekannt machen und erste schritte lernen. 
+- [X] Alles einrichten (Unity, github) 
+- [X] Online tutorials suchen und schauen. 
+- [x] Mich mit Unity bekannt machen und erste schritte lernen. 
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+...Ihr Text...
+
+
+<!--
+Fügen Sie hier die weiteren Tage der Lernperiode ein.
+-->
+
+## Tagesplanungen
+<!--
+Planen Sie die Lernperiode. Dazu planen Sie Arbeitspakete (jeweils für den
+kommenden Arbeitstag) und erstellen am Ende jedes Tages eine kurze Reflexion.
+
+Wenn Sie an einem Tag gefehlt haben, schreiben Sie direkt unter die
+Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
+absence, absent, Absenz, abwesend, krank, Krankheit.
+-->
+
+### Planung 23.10.2026
+
+Kleine Bausteine von Unity lernen und kleine spiele aufs mal programmieren, bis ich mich wohler fühle etwas grösseres zu machen.  
+
+- [ ] Kleine Codezeilen lernen und mit ihnen kleine "spiele" machen. 
+- [ ]  
+- [ ] 
 
 
 #### Tagesreflexion
