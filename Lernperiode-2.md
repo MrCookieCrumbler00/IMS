@@ -90,7 +90,7 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung 23.10.2026
+### Planung 30.10.2026
 
 Kleine Bausteine von Unity lernen und kleine spiele aufs mal programmieren, bis ich mich wohler fühle etwas grösseres zu machen.  
 
