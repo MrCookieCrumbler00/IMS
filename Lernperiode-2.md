@@ -124,7 +124,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Ich hatte eine neue Idee etwa mitten drinnen wie ich besser Unity programmieren lernen könnte. Ich bin schon ziemlich gut mit Scratch und konnte dort schon richtig gut Spiele machen. Ich habe also ChatGPT gefragt ob es mir ein Word machen kann mit all den Scratchblöcken übersetzt zu C#. Jetzt kann ich einfach auf diese List schauen und damit schon Dinge programmieren. 
+Wir  haben erst sehr gut gearbeited und haben erste Animation für den Dash gamacht und wollten an der Map arbeiten. Leider sind wir dann in ein Problem gerannt, das uns nicht mehr erlaubte beide an dem Projekt zu arbeiten. Wir konnten es fixen, doch es passierte wieder. Beim nächsten Mal werden wir von Vorne beginnen. 
 
 
 <!--
