@@ -127,10 +127,45 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 Wir  haben erst sehr gut gearbeited und haben erste Animation für den Dash gamacht und wollten an der Map arbeiten. Leider sind wir dann in ein Problem gerannt, das uns nicht mehr erlaubte beide an dem Projekt zu arbeiten. Wir konnten es fixen, doch es passierte wieder. Beim nächsten Mal werden wir von Vorne beginnen. 
 
 
+### Planung 13.11.2026
+
+Wir möchten einen Boss und Tutorial hinzufügen mit weiteren Map Additionen. 
+
+- [X] Boss einfügen mit KI
+- [X] Tutorial
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+Wir haben sehr produktiv weiter an unserem Spiel gearbeitet und Boss und ein Tutorial hinzugefügt.
+
+
+
+### Planung 20.11.2026
+
+Wir wollen unseres nächstes Level erstellen und den Boss verbessern. Auch noch die KI der Gegner verbessern. 
+
+- [X] Gegner verbessern
+- [X] Nächstes Level beginnen.
+- [X] Boss Animation machen.
+- [X] Boss Ende machen. 
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+Wir haben sehr produktiv gearbeitet und konnten gut weiterkommen. Tadeas hat das nächste Level gemacht und ich konnte die AI für die Gegner erfolgreich einfügen. Ich hatte sehr lange mit der Boss Animation und Tadeas konnte während dessen nicht an der Szene arbieten, deshalb ist das erste Level noch nicht fertig. 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
-
 ## Lernperiode Reflexion
 <!--
 Am Ende der Lernperiode schreiben Sie eine Reflexion über die gesamte Lernperiode.
