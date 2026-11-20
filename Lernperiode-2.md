@@ -153,7 +153,7 @@ Wir wollen unseres nächstes Level erstellen und den Boss verbessern. Auch noch 
 - [X] Gegner verbessern
 - [X] Nächstes Level beginnen.
 - [X] Boss Animation machen.
-- [X] Boss Ende machen. 
+- [] Boss Ende machen. 
 
 #### Tagesreflexion
 <!--
